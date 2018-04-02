@@ -23,4 +23,3 @@ class Solution:
             target=target.next
         target.next=target.next.next
         return head
-            
